@@ -79,11 +79,17 @@ respostas objetivas.
 
 # *CONCEPT PRIME*
 
-* Missão: 
+_Missão:_
 
-* Visão:
+Identificação dos modais utilizados nos trâmites internacionais de movimentação de cargas, desenhar a geografia do fluxo de exportação de cargas, desenvolver linha de tendência para cargas identificadas e criar um modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras. 
 
-* Valores:
+_Visão:_  
+
+Demonstrar conhecimento sobre os modais de transporte, ter habilidade para modelar dados históricos, sabendo os conceitos de tendências e projeções, habilidade com ferramentas digitais, conhecimento da geografia dos fluxos de movimentação de cargas no brasil e no mundo. 
+
+_Valores:_  
+
+Atendimento com excelência, entregas eficientes, transparentes, no tempo certo e com um bom nível sempre são bons diferenciais para que você mantenha seus clientes atuais e consiga conquistar novos se tornando cada vez mais competitivo. 
 
 
 # Autores
