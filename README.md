@@ -1,4 +1,4 @@
-![313372145-a75dbb88-8e17-4ca4-86c7-0a60453cd23e](https://github.com/Guilhermecarvalhoribeiro/Teste/assets/141978882/583c8196-c5f1-43b1-a75b-8540a9f73dec)
+![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/af707345-334d-4601-9602-ecfc367c4ac6)
 
  
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-beige"/></a>
