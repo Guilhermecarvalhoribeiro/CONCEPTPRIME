@@ -99,6 +99,13 @@ _CONCLUIDO..._
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/9ec4e674-c8d9-43c2-9131-86fe57dade9c)
 
+# Dashboard 
+Visualização do dashboard. Explicação: No mapa, temos os 15 principais destinos para os produtos (Segundo o Valor Fob); No canto superior direito, temos uma tabela com o percentual dos locais por onde as cargas saem do país.
+
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Autores
 |    Função     | Nome                                  |  LinkedIn & GitHub |
