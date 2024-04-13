@@ -6,8 +6,8 @@
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
+------------------------------------------------------------------------------------------------------------------------------------------
 # Índice
-
 * Projeto
 * Equipe
 * Objetivo do Projeto
@@ -16,13 +16,16 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * Backlog do produto
 * Competências desenvolvidas
 * Autores
-
+------------------------------------------------------------------------------------------------------------------------------------------
 # Projeto (API) 
+
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
+------------------------------------------------------------------------------------------------------------------------------------------
 # *Cronograma*
+
 
 Sprint | Previsão | Status|
 |------|--------|------
@@ -33,7 +36,7 @@ Sprint | Previsão | Status|
 |04| 17/06/2024 | Em Andamento | 
 |Feira de Soluções|27/06/2024 |Em Andamento|
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
  # *EQUIPE*
 
 Aluno            	 	| Função |   
@@ -48,7 +51,7 @@ Aluno            	 	| Função |
 |__Gabriel Alves__| *Developer Team* 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 # Objetivo do Projeto
 * Mapeamento de cargas de importação e exportação do estado de São Paulo;
 * Organizar e estruturar as informações;
@@ -58,7 +61,7 @@ Aluno            	 	| Função |
 
 Este estudo tem como objetivo a criação do protótipo de dashboard para análise do cliente. O dashboard oferece uma visualização clara do fluxo de cargas provenientes do estado de São Paulo, contendo uma representação gráfica das origens, destinos e volume de mercadorias permitindo uma análise eficaz do movimento logístico dos principais modais.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 # COMEXSTAT
 * O Comex Stat um sistema para consultas e extração de
 dados do comércio exterior brasileiro. São divulgados
@@ -70,7 +73,7 @@ dados do governo de cada região para trazer
 informações concretas para nossos clientes com
 respostas objetivas.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 # *CONCEPT PRIME*
 
 _Missão:_
@@ -85,7 +88,7 @@ _Valores:_
 
 Atendimento com excelência, entregas eficientes, transparentes, no tempo certo e com um bom nível sempre são bons diferenciais para que você mantenha seus clientes atuais e consiga conquistar novos se tornando cada vez mais competitivo. 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 # Autores
 |    Função     | Nome                                  |  LinkedIn & GitHub |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
