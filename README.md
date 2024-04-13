@@ -56,14 +56,8 @@ Aluno            	 	| Função |
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
-O projeto aborda o mapeamento através dos dados
-de importação e exportação disponíveis no site do
-comércio exterior do Brasil (ComexStat), as análises
-voltadas para os dados de importação e exportação
-da região iremos orientar os nossos clientes a
-tomarem decisões mais seguras sobre a logística do
-mercado, com a tecnologia e inovação ao nosso
-alcance.
+Este estudo tem como objetivo a criação do protótipo de dashboard para análise do cliente. O dashboard oferece uma visualização clara do fluxo de cargas provenientes do estado de São Paulo, contendo uma representação gráfica das origens, destinos e volume de mercadorias permitindo uma análise eficaz do movimento logístico dos principais modais.
+
 
 # COMEXSTAT
 * O Comex Stat um sistema para consultas e extração de
