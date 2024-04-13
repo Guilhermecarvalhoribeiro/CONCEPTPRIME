@@ -20,7 +20,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 # Projeto (API) 
 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO).
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -63,7 +63,7 @@ Este estudo tem como objetivo a criação do protótipo de dashboard para análi
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # COMEXSTAT
-* O Comex Stat um sistema para consultas e extração de
+O Comex Stat um sistema para consultas e extração de
 dados do comércio exterior brasileiro. São divulgados
 mensalmente os dados detalhados das exportações e
 importações brasileiras, extraídas do SISCOMEX e
