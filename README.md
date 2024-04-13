@@ -27,7 +27,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status|
 |------|--------|------
 |Kick-Off | 11/03/2024 | Concluído | 
-|01| 15/04/2024| Em Andamento | 
+|01| 15/04/2024| Concluído | 
 |02| 06/05/2024 | Em Andamento |
 |03| 27/05/2024 | Em Andamento | 
 |04| 17/06/2024 | Em Andamento | 
