@@ -4,7 +4,7 @@
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-beige"/></a>
  <a href="https://conceptprimefatec.atlassian.net/jira/software/projects/CPTPRIME/boards/1/backlog/"><img src="https://img.shields.io/badge/LINK:-JIRA SOFTWARE-blue"/></a>
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
+_Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos._
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Índice
@@ -99,12 +99,11 @@ _CONCLUIDO..._
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/9ec4e674-c8d9-43c2-9131-86fe57dade9c)
 
+------------------------------------------------------------------------------------------------------------------------------------------
 # Dashboard 
-Visualização do dashboard. Explicação: No mapa, temos os 15 principais destinos para os produtos (Segundo o Valor Fob); No canto superior direito, temos uma tabela com o percentual dos locais por onde as cargas saem do país.
+_Visualização do dashboard. Explicação: No mapa, temos os 15 principais destinos para os produtos (Segundo o Valor Fob); No canto superior direito, temos uma tabela com o percentual dos locais por onde as cargas saem do país._
 
-
-
-
+![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/fe249aef-d33c-44fe-9afd-d7cffd0b45ce)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Autores
