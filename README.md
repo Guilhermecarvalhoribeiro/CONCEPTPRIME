@@ -50,7 +50,7 @@ Aluno            	 	| Função |
 
 
 # Objetivo do Projeto
-* Mapeamento de cargas de importação e exportação;
+* Mapeamento de cargas de importação e exportação do estado de São Paulo;
 * Organizar e estruturar as informações;
 * Visionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
