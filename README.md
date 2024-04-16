@@ -122,7 +122,6 @@ _Visualização do dashboard. Explicação: No mapa, temos os 15 principais dest
 | Developer Team | Gabriel Alves|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
 
 
-[DOCUMENTO SPRINT 1 (1).docx](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15000826/DOCUMENTO.SPRINT.1.1.docx)
 
 <p align="right"> <a href="#top">Voltar ao topo</a> </p>
 
@@ -131,7 +130,7 @@ _Visualização do dashboard. Explicação: No mapa, temos os 15 principais dest
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 15/04/2024 |  Concluída    | [Relatório] (https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15000826/DOCUMENTO.SPRINT.1.1.docx)  |
+| 01 | 15/04/2024 |  Concluída    | [DOCUMENTO SPRINT 1 (1).docx](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15000826/DOCUMENTO.SPRINT.1.1.docx)|
 | 02 | 06/05/2024 |  Em Andamento   | [Relatório] colocar |
 | 03 | 27/05/2024 |  Em Andamento   | [Relatório] colocar |
 | 04 | 17/06/2024 |  Em Andamento   | [Relatório] colocar |
