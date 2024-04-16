@@ -27,14 +27,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # *Cronograma*
 
 
-Sprint | Previsão | Status|
-|------|--------|------
-|Kick-Off | 11/03/2024 | Concluído | 
-|01| 15/04/2024| Concluído | 
-|02| 06/05/2024 | Em Andamento |
-|03| 27/05/2024 | Em Andamento | 
-|04| 17/06/2024 | Em Andamento | 
-|Feira de Soluções|27/06/2024 |Em Andamento|
+| Sprint | Previsão de entrega | Status           | Histórico |
+|:--:|:----------:|:-------------------|:-------------------------------------------------:|
+| 01 | 15/04/2024 |  Concluída    | [RELATÓRIO](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15000826/DOCUMENTO.SPRINT.1.1.docx)|
+| 02 | 06/05/2024 |  Em Andamento   | [Relatório] Em Andamento|
+| 03 | 27/05/2024 |  Em Andamento   | [Relatório] Em Andamento|
+| 04 | 17/06/2024 |  Em Andamento   | [Relatório] Em Andamento|
 
 ------------------------------------------------------------------------------------------------------------------------------------------
  # *EQUIPE*
@@ -125,12 +123,3 @@ _Visualização do dashboard. Explicação: No mapa, temos os 15 principais dest
 
 <p align="right"> <a href="#top">Voltar ao topo</a> </p>
 
-
-
-
-| Sprint | Previsão de entrega | Status           | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 15/04/2024 |  Concluída    | [RELATÓRIO](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/files/15000826/DOCUMENTO.SPRINT.1.1.docx)|
-| 02 | 06/05/2024 |  Em Andamento   | [Relatório] colocar |
-| 03 | 27/05/2024 |  Em Andamento   | [Relatório] colocar |
-| 04 | 17/06/2024 |  Em Andamento   | [Relatório] colocar |
