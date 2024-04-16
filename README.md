@@ -102,6 +102,7 @@ _CONCLUIDO..._
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Dashboard 
 _Sprint 01_
+
 _Visualização do dashboard. Explicação: No mapa, temos os 15 principais destinos para os produtos (Segundo o Valor Fob); No canto superior direito, temos uma tabela com o percentual dos locais por onde as cargas saem do país._
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/baf092a7-b8f5-4d47-8259-662db01bbb66)
