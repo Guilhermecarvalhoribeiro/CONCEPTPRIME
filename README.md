@@ -72,7 +72,7 @@ informações concretas para nossos clientes com
 respostas objetivas.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# *CONCEPT PRIME*
+# CONCEPT PRIME
 
 _Missão:_
 
