@@ -95,7 +95,12 @@ _CONCLUIDO..._
 
 >Backlog da Sprint
 
-![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/9ec4e674-c8d9-43c2-9131-86fe57dade9c)
+![Captura de Tela (8)](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/2c1ff389-ae3b-4feb-8062-0090d51db85d)
+
+# *Sprints*
+
+Sprint 02
+_CONCLUIDO..._
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Dashboard 
