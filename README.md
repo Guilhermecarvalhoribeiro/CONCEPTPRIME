@@ -138,6 +138,9 @@ _Visualização do dashboard. Explicação: No mapa, temos os 15 principais dest
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/0132f923-b3e4-49f0-b9c1-d5b9171fe1fb)
 
+_Tecnologia Utilizada: Visme_
+
+O Visme é uma plataforma de design visual e visualização de dados fácil de usar. Com uma variedade de modelos e ferramentas de edição, permite criar apresentações, infográficos e relatórios atraentes.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
