@@ -136,7 +136,7 @@ _Visualização do dashboard. Explicação: No mapa, temos os 15 principais dest
 # Dashboard 
 _Sprint 02_
 
-Feito ajustes e retirada do modelo de previsão por suavização exponencial. 
+_Feita checagem e retirada do modelo de previsão por suavização exponencial._ 
 
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/1a58918f-6648-4ce7-a99d-4176bac83dd0)
