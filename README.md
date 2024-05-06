@@ -102,7 +102,8 @@ _EM ANDAMENTO..._
 
 >Backlog da Sprint
 
-![Captura de Tela (9)](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/3804437c-267f-4941-9ece-645036fe45e9)
+![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/b121f75c-7303-42b2-bcb7-fea75a0706ec)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
