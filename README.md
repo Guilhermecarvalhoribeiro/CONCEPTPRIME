@@ -130,9 +130,13 @@ _Visualização do dashboard. Explicação: No mapa, temos os 15 principais dest
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/baf092a7-b8f5-4d47-8259-662db01bbb66)
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Mapa Exportações Por Modal 
 
-tmp_49680edc-7dfc-4cec-b156-ac47931e3f0f.png
+![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/0132f923-b3e4-49f0-b9c1-d5b9171fe1fb)
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
