@@ -98,7 +98,7 @@ _CONCLUIDO..._
 ![Captura de Tela (8)](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/2c1ff389-ae3b-4feb-8062-0090d51db85d) 
 
 Sprint 02
-_EM ANDAMENTO..._
+_CONCLUIDO..._
 
 >Backlog da Sprint
 
