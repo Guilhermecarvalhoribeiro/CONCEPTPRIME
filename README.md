@@ -142,7 +142,7 @@ _Sprint 02_
 _Feita checagem e retirada do modelo de previsão por suavização exponencial._ 
 
 
-![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/1a58918f-6648-4ce7-a99d-4176bac83dd0)
+![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/4c046bfc-3d7f-491e-a995-84dc1d5b477e)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -150,7 +150,8 @@ _Feita checagem e retirada do modelo de previsão por suavização exponencial._
 
 # Mapa Exportações Por Modal 
 
-![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/0132f923-b3e4-49f0-b9c1-d5b9171fe1fb)
+![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/70956227-cbfb-4778-8cc5-a0bcd623585f)
+
 
 _Tecnologia Utilizada: Visme_
 
