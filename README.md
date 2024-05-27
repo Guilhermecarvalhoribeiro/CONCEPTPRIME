@@ -153,19 +153,6 @@ _Sprint 03_
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Mapa Exportações Por Modal 
-
-![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/70956227-cbfb-4778-8cc5-a0bcd623585f)
-
-
-_Tecnologia Utilizada: Visme_
-
-O Visme é uma plataforma de design visual e visualização de dados fácil de usar. Com uma variedade de modelos e ferramentas de edição, permite criar apresentações, infográficos e relatórios atraentes.
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 
 <p align="right"> <a href="#top">Voltar ao topo</a> </p>
