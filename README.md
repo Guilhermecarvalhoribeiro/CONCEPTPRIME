@@ -149,6 +149,7 @@ _Feita checagem e retirada do modelo de previsão por suavização exponencial._
 # Dashboard 
 _Sprint 03_
 
+![IMG-20240521-WA0032.jpg](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/0dab6458-9faf-45d7-ace9-6f0ed3f93733)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
