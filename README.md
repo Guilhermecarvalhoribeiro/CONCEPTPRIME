@@ -147,7 +147,7 @@ _Feita checagem e retirada do modelo de previsão por suavização exponencial._
 # Dashboard 
 _Sprint 03_
 
-_Foi removido o gráfico de Kg e o mapa de destino das exportações, além disso, foi adicionado uma lista dos produtos mais exportados pelo estado de São Paulo em 2023, e foi adicionada a previsão por suavização exponencial no gráfico de valor FOB.
+_Foi removido o gráfico de Kg e o mapa de destino das exportações, além disso, foi adicionado uma lista dos produtos mais exportados pelo estado de São Paulo em 2023, e foi adicionada a previsão por suavização exponencial no gráfico de valor FOB._
 
 
 ![IMG-20240521-WA0032.jpg](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/0dab6458-9faf-45d7-ace9-6f0ed3f93733)
