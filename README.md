@@ -152,6 +152,10 @@ _Foi removido o gráfico de Kg e o mapa de destino das exportações, além diss
 
 ![IMG-20240521-WA0032.jpg](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/0dab6458-9faf-45d7-ace9-6f0ed3f93733)
 
+# Dashboard 
+_Sprint 04_
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
