@@ -1,7 +1,7 @@
 ![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/af707345-334d-4601-9602-ecfc367c4ac6)
 
  
- <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/blue/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-beige"/></a>
+ <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-beige"/></a>
  <a href="https://conceptprimefatec.atlassian.net/jira/software/projects/CPTPRIME/boards/1/backlog/"><img src="https://img.shields.io/badge/LINK:-JIRA SOFTWARE-blue"/></a>
 
 _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos._
